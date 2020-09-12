@@ -1,0 +1,9 @@
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\bin\Debug\netstandard2.0\Mercury.Valuation.deps.json
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\bin\Debug\netstandard2.0\Mercury.Valuation.dll
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\bin\Debug\netstandard2.0\Mercury.Valuation.pdb
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\obj\Debug\netstandard2.0\Mercury.Valuation.csprojAssemblyReference.cache
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\obj\Debug\netstandard2.0\Mercury.Valuation.csproj.CoreCompileInputs.cache
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\obj\Debug\netstandard2.0\Mercury.Valuation.AssemblyInfoInputs.cache
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\obj\Debug\netstandard2.0\Mercury.Valuation.AssemblyInfo.cs
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\obj\Debug\netstandard2.0\Mercury.Valuation.dll
+C:\Users\TaHan\Downloads\Mercury.Valuation\src\obj\Debug\netstandard2.0\Mercury.Valuation.pdb

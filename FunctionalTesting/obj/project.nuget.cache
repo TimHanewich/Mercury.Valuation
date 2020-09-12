@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eVCKkVlFIRr/Xr/WitecVVUJ4KuAWtWj3XnBgKqPCHsjgjW+wu+1W8P63zoS7UN/1dm2ztdDPJw779WZz8vGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TaHan\\Downloads\\Mercury.Valuation\\FunctionalTesting\\FunctionalTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaHan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewich.csv\\1.0.0\\timhanewich.csv.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewich.datasetmanagement\\0.1.0\\timhanewich.datasetmanagement.0.1.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewichtoolkit\\1.0.0\\timhanewichtoolkit.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\yahoo.finance\\3.4.0\\yahoo.finance.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vyRqb4X08smFb8F/vTBdp5OsNj9rPqc66YWnJkdcvyoDj+v24PRBdJQH+IBguWPUh9KId7LtwFRkItBodOxlBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TaHan\\Downloads\\Mercury.Valuation\\src\\Mercury.Valuation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewich.csv\\1.0.0\\timhanewich.csv.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewich.datasetmanagement\\0.1.0\\timhanewich.datasetmanagement.0.1.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewichtoolkit\\1.0.0\\timhanewichtoolkit.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\yahoo.finance\\3.4.0\\yahoo.finance.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
